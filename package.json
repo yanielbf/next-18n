@@ -1,16 +1,16 @@
 {
-    "name": "next-localization",
-    "version": "0.11.0",
+    "name": "next-18n",
+    "version": "0.1.0",
     "main": "dist/index.js",
     "source": "src/index.js",
     "module": "dist/index.modern.js",
     "unpkg": "dist/index.umd.js",
-    "repository": "git@github.com:StarpTech/next-localization.git",
+    "repository": "git@github.com:yanielbf/next-18n.git",
     "types": "types/index.d.ts",
     "author": {
-        "name": "Dustin Deus",
-        "email": "deusdustin@gmail.com",
-        "url": "https://starptech.de"
+        "name": "Yaniel Blanco",
+        "email": "yaniel2015@yandex.com",
+        "url": "https://otiumtek.com"
     },
     "license": "MIT",
     "files": [
