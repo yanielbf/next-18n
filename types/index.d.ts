@@ -22,6 +22,7 @@ interface I18n<T> {
 
 export function useI18n<T>(): I18n<T>;
 export function I18n<T>(table?: T): I18n<T>;
+export const I18nContext;
 export function I18nProvider<T extends object>(props: ProviderProps<T>): React.ReactElement;
 
 interface ProviderProps<T> {
